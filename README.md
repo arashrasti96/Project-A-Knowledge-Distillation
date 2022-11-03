@@ -9,3 +9,10 @@ Distillation to improve the performance of conventional
 knowledge distillation. In Task 2, ResNet50V2 and
 MobileNetV2 are employed as student and teacher models
 for image classification using MHIST dataset.
+
+Note:
+1- For Task 2, please download images.zip from the following link that consists of the Mhist images and place the zip file in mhist_dataset folder.
+
+https://drive.google.com/file/d/18VqCfEzVcNZusOpDtl8U7g_b4oP5j3Ne/view?usp=sharing
+
+
